@@ -1,10 +1,5 @@
 # 📡 Microstrip Stepped-Impedance LPF Design
 
-![Software](https://img.shields.io/badge/Software-CST_Studio_Suite_2025-blue?style=flat-square&logo=dassaultsystemes)
-![Material](https://img.shields.io/badge/Material-Rogers_RO4003C-orange?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-RF_/_Microwave-green?style=flat-square)
-![Analysis](https://img.shields.io/badge/Analysis-EM_Simulation-red?style=flat-square)
-
 This repository contains the design, simulation, and performance analysis of a **Microstrip Stepped-Impedance Low Pass Filter** developed in **CST Studio Suite 2025**.
 
 ## 📌 Project Overview
